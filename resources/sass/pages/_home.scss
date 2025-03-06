@@ -1,0 +1,24 @@
+
+.hero {
+    background: $primary url('images/home/bg-hero.jpg') no-repeat;
+    background-position: top center ;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    .typed-cursor {
+            color: $secondary !important;
+            font-size: clamp(1.5rem, 4vw, 3rem);
+            font-weight: 500;
+        }
+    
+    
+
+
+
+    
+}
+
+

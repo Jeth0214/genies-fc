@@ -1,0 +1,88 @@
+
+
+
+.numbered {
+  flex: 0 0 80px;
+    height: 80px;
+    background: $secondary;
+    color: $white;
+    position: relative;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    p {
+      margin-bottom: 0;
+      font-weight: bold;
+      font-size: 2rem;
+    }
+}
+
+.message_bg {
+  position: relative;
+  z-index: 3;
+  p {
+    position: relative;
+    z-index: 3;
+  }
+  .quotation-mark {
+    width: 250px;
+    position: absolute;
+    z-index: 1;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+  }
+}
+
+
+// message area
+.blockquote-custom {
+  position: relative;
+  font-size: 1.1rem;
+}
+
+.blockquote-custom-icon {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: -45px;
+  left: 50px;
+  .bi {
+    font-size: 50px;
+  }
+}
+
+// services icons 
+.services-icons {
+  font-size: 50px;
+  color: $secondary;
+}
+
+// partners 
+.partners {
+  .social-link {
+      width: 30px;
+      height: 30px;
+      border: 1px solid #ddd;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #faf9f9;
+      border-radius: 50%;
+      transition: all 0.3s;
+      font-size: 0.9rem;
+    }
+  
+    .social-link:hover,
+    .social-link:focus {
+      background: #ddd;
+      text-decoration: none;
+      color: #555;
+    }
+}

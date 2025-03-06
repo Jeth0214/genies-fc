@@ -1,0 +1,39 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+// translations styles
+@import 'translations';
+
+//base styles
+@import 'components/site-navbar';
+@import 'components/site-base';
+@import 'components/site-blocks';
+@import 'components/site-footer';
+
+//Global styles
+@import 'global';
+
+// pages styles
+@import 'pages/home';
+@import 'pages/about-us';
+@import 'pages/contact-us';
+@import "pages/register";
+
+
+// components
+@import 'components/tabs';
+@import 'components/checkbox';
+
+
+
+

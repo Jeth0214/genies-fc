@@ -1,0 +1,33 @@
+.custom-checkbox {
+  display: flex;
+  cursor: pointer;
+}
+
+.custom-checkbox input[type="radio"] {
+  appearance: none;
+  width: 35px;
+  height: 20px;
+  border: 2px solid #333;
+  border-radius: 3px;
+  margin-right: 10px;
+  position: relative;
+}
+
+.custom-checkbox input[type="radio"]:checked {
+  background-color: $primary;
+  border-color: $primary;
+}
+
+.custom-checkbox input[type="radio"]:checked::before {
+  content: '✔';
+  color: white;
+  position: absolute;
+  top: -4px;
+  left: 2px;
+  font-size: 14px;
+}
+
+.custom-checkbox input[type="radio"]:focus {
+  outline: none;
+  box-shadow: 0 0 5px $primary;
+}

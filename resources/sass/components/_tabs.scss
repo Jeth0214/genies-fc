@@ -1,0 +1,50 @@
+
+.nav-pills {
+  gap: 1rem;
+  .nav-link {
+      color: $secondary;
+        font-family: $font-family-bodoni-serif;
+          background: $primary;
+          transition: all 0.2s ease-in-out;
+        padding: 1.5rem;
+        min-height: 100px;
+        position: relative;
+          &.active,
+            &:hover {
+              span {
+              visibility: hidden;
+              }
+            }
+
+  }
+
+  .nav-pill-01 {
+    &.active,
+      &:hover {
+        background: url('../../../public/images/syllabus/btn-U9.jpg') no-repeat center;
+        background-size: cover;
+      }
+  }
+  .nav-pill-02 {
+    &.active,
+      &:hover {
+        background: url('../../../public/images/syllabus/btn-U12.jpg') no-repeat center;
+        background-size: cover;
+      }
+  }
+  .nav-pill-03 {
+    &.active,
+      &:hover {
+        background: url('../../../public/images/syllabus/btn-U14.jpg') no-repeat center;
+        background-size: cover;
+      }
+  }
+  .nav-pill-04 {
+    &.active,
+      &:hover {
+        background: url('../../../public/images/syllabus/btn-U17.jpg') no-repeat center;
+        background-size: cover;
+      }
+  }
+
+}

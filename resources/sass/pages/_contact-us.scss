@@ -1,0 +1,16 @@
+.contact-us-form-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    .contact-us-form {
+        padding: 20px;
+        .form-group {
+            margin-bottom: 20px;
+            #messageHint {
+                float: right;
+            }
+            .invalid-feedback {
+                display: block !important;
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+
+
+// remove underline in all links
+ a {
+  text-decoration: none;
+ }
+
+ // additional font
+ .font-bodoni {
+   font-family: $font-family-bodoni-serif;
+ }
+
+ // remove bullet in unordered lists
+ ul {
+   list-style-type: none;
+   padding-left: 0px;
+ }
+
+ .quotation {
+    font-size: 5rem;
+ }
+
+ .toast {
+     .toast-header {
+         width: 100%;
+         .btn-close {
+             float: right !important;
+             align-self: end;
+             justify-self: end;
+         }
+     }
+ }
+
+ // This CSS property preserves spaces,
+ // tabs,
+ // and newlines,
+ // and also wraps text when necessary.
+ .preserve-whitespace {
+   white-space: pre-wrap;
+ }

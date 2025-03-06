@@ -1,0 +1,84 @@
+.site-footer {
+	background: $primary;
+	font-size: 14px;	
+	color: #888;
+	padding: 70px 0;
+
+
+	a {
+		color: #777;
+		position: relative;
+		display: inline-block;
+		&:hover {
+			color: $white;
+			text-decoration: none;
+			&:before {
+				background: rgba($primary, 1);
+			}
+		}
+	}
+
+	.footer-cta {
+		h2 {
+			font-size: 30px;
+			color: $primary;
+		}
+	}
+	.btn {
+		&:before {
+			display: none;
+		}
+	}
+	.widget {
+		margin-bottom: 40px;
+		display: block;
+		h3 {
+			font-size: 20px;
+			font-weight: 700;
+			text-transform: uppercase;
+			margin-bottom: 15px;
+			color: $white;
+		}
+
+		.links {
+			li {
+				margin-bottom: 10px;
+			}
+		}
+	}
+
+	.social {
+		li:not(:last-child) {
+				margin-right: 20px;
+			}
+		li {
+			display: inline-block;
+			margin-bottom: 10px;
+			a {
+				display: inline-block;
+				width: 40px;
+				height: 40px;
+				position: relative;
+				background: $secondary;
+				border-radius: 40%;
+				color: $primary;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				&:before {
+					display: none;
+				}
+				> span {
+					position: absolute;
+					top: 50%;
+					left: 50%;
+					transform: translate(-50%, -50%);
+				}
+				&:hover {
+					background: $primary;
+					color: $white;
+				}
+			}
+		}
+	}
+}

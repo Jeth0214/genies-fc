@@ -1,0 +1,27 @@
+.ar {
+  .text-rtl {
+    text-align: right;
+  }
+
+  .justify-rtl {
+    justify-content: end;
+  }
+
+    .me-rtl-2 {
+      margin-left: 20px;
+    }
+
+    .order-1  {
+      order: 2 !important
+    }
+
+    .order-2  {
+      order: 1 !important
+    }
+}
+
+.en {
+  .me-rtl-2 {
+      margin-right: 20px;
+    }
+}
