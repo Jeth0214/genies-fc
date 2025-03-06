@@ -39,7 +39,7 @@
                 <div class="menu-bg-wrap px-2 py-2">
                     <div class="site-navigation d-flex justify-content-between align-items-center">
                         <a href="/" class="logo navbar-brand m-0 float-start ps-2">
-                            <img class="img" src="images/logos/logo-2.png" alt="captain academy">
+                            <img class="img-fluid" src="images/logos/logo-2.png" alt="{{ __('global.company-name')}}">
                         </a>
 
                         <ul dir="{{config('app.locale') == 'ar' ? 'rtl' : '' }}" class="{{config('app.locale') == 'ar' ? 'pe-0' : '' }} js-clone-nav d-none d-lg-inline-block text-start site-menu float-end">

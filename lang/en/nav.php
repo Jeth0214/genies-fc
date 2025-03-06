@@ -10,7 +10,7 @@ return [
 
   'home' => 'Home',
   'about-us' => 'About-us',
-  'tomoh' => 'Tomoh',
+  'tomoh' => 'Genies FC',
   'events' => 'Events',
   'news' => 'News',
   'facilities' => 'Facilities',

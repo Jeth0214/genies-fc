@@ -1,7 +1,7 @@
 <?php return array (
   'app' => 
   array (
-    'name' => 'Tomoh-Al-Ehtiraf',
+    'name' => 'Genies-fc',
     'env' => 'local',
     'debug' => true,
     'url' => 'http://localhost',
@@ -10,7 +10,7 @@
     'locale' => 'ar',
     'fallback_locale' => 'en',
     'faker_locale' => 'en_US',
-    'key' => 'base64:BZ1rR2y6Grpg1DiZgmAyf63x09AgbnxiILUh//l/mnM=',
+    'key' => 'base64:NppTUQVoYy+KLLbPKdvpLLVGk5BbmDUiUZ9AlAgqO4Y=',
     'cipher' => 'AES-256-CBC',
     'maintenance' => 
     array (
@@ -204,8 +204,8 @@
       'file' => 
       array (
         'driver' => 'file',
-        'path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\framework/cache/data',
-        'lock_path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\framework/cache/data',
+        'path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\framework/cache/data',
+        'lock_path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\framework/cache/data',
       ),
       'memcached' => 
       array (
@@ -249,7 +249,7 @@
         'driver' => 'octane',
       ),
     ),
-    'prefix' => 'tomoh_al_ehtiraf_cache_',
+    'prefix' => 'genies_fc_cache_',
   ),
   'cors' => 
   array (
@@ -348,7 +348,7 @@
       'options' => 
       array (
         'cluster' => 'redis',
-        'prefix' => 'tomoh_al_ehtiraf_database_',
+        'prefix' => 'genies_fc_database_',
       ),
       'default' => 
       array (
@@ -378,13 +378,13 @@
       'local' => 
       array (
         'driver' => 'local',
-        'root' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\app',
+        'root' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\app',
         'throw' => false,
       ),
       'public' => 
       array (
         'driver' => 'local',
-        'root' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\app/public',
+        'root' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\app/public',
         'url' => 'http://localhost/storage',
         'visibility' => 'public',
         'throw' => false,
@@ -404,7 +404,7 @@
     ),
     'links' => 
     array (
-      'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\public\\storage' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\app/public',
+      'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\public\\storage' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\app/public',
     ),
   ),
   'hashing' => 
@@ -453,14 +453,14 @@
       'single' => 
       array (
         'driver' => 'single',
-        'path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\logs/laravel.log',
+        'path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\logs/laravel.log',
         'level' => 'debug',
         'replace_placeholders' => true,
       ),
       'daily' => 
       array (
         'driver' => 'daily',
-        'path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\logs/laravel.log',
+        'path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\logs/laravel.log',
         'level' => 'debug',
         'days' => 14,
         'replace_placeholders' => true,
@@ -525,12 +525,12 @@
       ),
       'emergency' => 
       array (
-        'path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\logs/laravel.log',
+        'path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\logs/laravel.log',
       ),
       'PayTabs' => 
       array (
         'driver' => 'single',
-        'path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\logs/paytabs.log',
+        'path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\logs/paytabs.log',
         'level' => 'info',
       ),
     ),
@@ -600,14 +600,14 @@
     'from' => 
     array (
       'address' => 'rolandjethrosuyom@outlook.com',
-      'name' => 'Tomoh-Al-Ehtiraf',
+      'name' => 'Genies-fc',
     ),
     'markdown' => 
     array (
       'theme' => 'default',
       'paths' => 
       array (
-        0 => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\resources\\views/vendor/mail',
+        0 => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\resources\\views/vendor/mail',
       ),
     ),
   ),
@@ -727,7 +727,7 @@
     'lifetime' => '120',
     'expire_on_close' => false,
     'encrypt' => false,
-    'files' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\framework/sessions',
+    'files' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\framework/sessions',
     'connection' => NULL,
     'table' => 'sessions',
     'store' => NULL,
@@ -736,7 +736,7 @@
       0 => 2,
       1 => 100,
     ),
-    'cookie' => 'tomoh_al_ehtiraf_session',
+    'cookie' => 'genies_fc_session',
     'path' => '/',
     'domain' => NULL,
     'secure' => NULL,
@@ -748,9 +748,9 @@
   array (
     'paths' => 
     array (
-      0 => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\resources\\views',
+      0 => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\resources\\views',
     ),
-    'compiled' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\framework\\views',
+    'compiled' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\framework\\views',
   ),
   'dompdf' => 
   array (
@@ -759,10 +759,10 @@
     'convert_entities' => true,
     'options' => 
     array (
-      'font_dir' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\fonts',
-      'font_cache' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf\\storage\\fonts',
+      'font_dir' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\fonts',
+      'font_cache' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc\\storage\\fonts',
       'temp_dir' => 'C:\\Users\\ACER\\AppData\\Local\\Temp',
-      'chroot' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf',
+      'chroot' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc',
       'allowed_protocols' => 
       array (
         'file://' => 
@@ -883,7 +883,7 @@
     array (
     ),
     'enable_runnable_solutions' => NULL,
-    'remote_sites_path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\tomoh-al-ehtiraf',
+    'remote_sites_path' => 'C:\\Users\\ACER\\Desktop\\WebDev-ssd\\Freelance\\Captain Academy\\genies-fc',
     'local_sites_path' => '',
     'housekeeping_endpoint_prefix' => '_ignition',
     'settings_file_path' => '',

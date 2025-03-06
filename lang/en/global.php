@@ -15,6 +15,6 @@ return [
   // buttons 
   'register-btn' => 'Register Now!',
   'contact-btn' => 'Contact Us!',
-  'company-name' => 'Tomoh Al-Ehtiraf'
+  'company-name' => 'Genies FC',
 
 ];

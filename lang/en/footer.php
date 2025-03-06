@@ -44,5 +44,5 @@ return [
   'copyright' => 'Copyright',
   'reserved' => '. All Rights Reserved. Dammam Saudi Arabia.',
   'develope' => 'Developed by ',
-  'ca' => 'Tomoh Al-Ehtiraf',
+  'ca' => 'Genies FC',
 ];
