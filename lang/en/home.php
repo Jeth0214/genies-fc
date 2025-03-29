@@ -34,12 +34,15 @@ return [
                     support, and marketing teams. Everyone  affliated with a Captain Sports Academy plays a pivotal role in making us the go-to destination for 
                     aspiring young football talents in the kingdom of Saudi Arabia.
                   ',
-  "team_01_position" => 'Assistant Coach',
-  "team_02_position" => 'Technical Director',
-  "team_03_position" => 'Assistant Coach',
-  "team_01_name" => 'Mohammed Yasser',
-  "team_02_name" => 'Juxhin Nexhipi',
-  "team_03_name" => 'Ahmed Gamal',
+  "team_01_position" => 'President',
+  "team_02_position" => 'Security of the president',
+  "team_01_name" => 'Kone Ladji',
+  "team_02_name" => '',
+  "team_01_content" => 'Kone Ladji is the president of Genie FC, a football club based in Côte d\'Ivoire. An Ivorian businessman with significant influence in the business world, Kone is a young entrepreneur with a distinctive vision. He works in real estate and has led various projects and activities, demonstrating a highly active approach to his business ventures.
+
+Today, after analyzing the landscape of Ivorian and global football, he founded the club with the goal of providing a vision and helping young talents from underprivileged neighborhoods. The project aims to develop these young players and create opportunities to guide them towards Europe.
+
+Kone has built a dynamic team to drive this project forward. Thanks to his intelligence and personality, he effectively mobilizes substantial resources by aligning both international and national partners. With scouts dedicated to talent identification, Kone Ladji has a significant advantage as he travels extensively around the world.',
 
   // facilities
   'facilities-header' => 'Our facilities',
