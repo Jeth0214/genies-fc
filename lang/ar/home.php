@@ -41,28 +41,14 @@ Today, after analyzing the landscape of Ivorian and global football, he founded 
 
 Kone has built a dynamic team to drive this project forward. Thanks to his intelligence and personality, he effectively mobilizes substantial resources by aligning both international and national partners. With scouts dedicated to talent identification, Kone Ladji has a significant advantage as he travels extensively around the world.',
 
-
-  // Facilities
-  'facilities-header' => 'منشأتنا',
-  'facilities-content' => 'اكتشف مرافقنا الحديثة: حيث يجتمع الابتكار والتميز في أكاديمية كابتن',
-
   // News
   'news-header' => 'لقد حصلنا على أخبار مثيرة',
-  'news-title' => 'عنوان الأخبار',
-  'news-content' => 'بعض محتوى الأخبار هنا. بعض محتوى الأخبار هنا. بعض محتوى الأخبار هنا',
 
-  // live-stream
-  'live-stream-header' => 'شاهد البث المباشر لدينا',
-  'live-stream-content' => 'يرجى الاستماع لتجربة الإثارة مباشرة من خلال البث المباشر الجذاب، حيث تتكشف كل لحظة بالطاقة النابضة بالحياة والمشاركة الغامرة',
-  'live-stream-feature' => 'البث المباشر المميز',
-  'live-stream-title' => 'عنوان البث المباشر',
-  'live-stream-details' => 'محتوى الفيديوهات القصيرة',
+
 
   //buttons
   'about-btn' => 'تعلم المزيد عنا',
-  'facilities-btn' => 'عرض كافة المرافق',
   'news-btn' => 'عرض جميع الأخبار',
   'prev-btn' => 'سابق',
   'next-btn' => 'التالي',
-  'live-stream-btn' => 'تحقق من أشرطة الفيديو لدينا'
 ];

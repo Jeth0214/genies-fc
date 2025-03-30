@@ -44,29 +44,16 @@ Today, after analyzing the landscape of Ivorian and global football, he founded 
 
 Kone has built a dynamic team to drive this project forward. Thanks to his intelligence and personality, he effectively mobilizes substantial resources by aligning both international and national partners. With scouts dedicated to talent identification, Kone Ladji has a significant advantage as he travels extensively around the world.',
 
-  // facilities
-  'facilities-header' => 'Our facilities',
-  'facilities-content' => 'Discover Our State-of-the-Art Facilities: Where Innovation and Excellence Unite at Captain Academy.',
-
   // News
   'news-header' => 'We got exciting news',
-  'news-title' => 'News Title',
-  'news-content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere officiis inventore cumque tenetur laboriosam, minus culpa doloremque odio, neque molestias?',
 
-  // live-stream
-  'live-stream-header' => 'Watch Our Live Streams',
-  'live-stream-content' => 'Please tune in to experience the excitement firsthand with our captivating live stream, where every moment unfolds with vibrant energy and immersive engagement!',
-  'live-stream-feature' => 'Featured live stream',
-  'live-stream-title' => 'Live stream title',
-  'live-stream-details' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.',
+
 
   //buttons
   'about-btn' => 'Learn more about us',
-  'facilities-btn' => 'View all facilities',
   'news-btn' => 'View all news',
   'news-details-btn' => 'See Details',
   'prev-btn' => 'Prev',
   'next-btn' => 'Next',
-  'live-stream-btn' => 'Check out our videos'
 
 ];
