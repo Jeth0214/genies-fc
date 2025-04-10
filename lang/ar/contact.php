@@ -23,7 +23,7 @@ return [
   'tel' => 'رقم هاتف ',
   'tel-value' => '٩٢٠٠٢٩٩٧٦',
   'whatsapp' => 'الواتساب',
-  'whatsapp-value' => '+٩٦٦٥٦٢٥٥٦٢٠١',
+  'whatsapp-value' => '+2250717494949',
 
   //form
   "name-label" => "الاسم الكامل",

@@ -112,9 +112,9 @@
                         <h3>{{ __('footer.contacts')}}</h3>
                         <address>{{ __('contact.address')}}</address>
                         <ul class=" list-unstyled links">
-                            <li><a href="https://api.whatsapp.com/send?phone=966562556201" target="_blank">{{ __('contact.whatsapp-value')}}</a></li>
+                            <li><a href="https://api.whatsapp.com/send?phone=2250717494949" target="_blank">{{ __('contact.whatsapp-value')}}</a></li>
                             <li>
-                                <a href="mailto:info@tomohfc.com" target="_blank"> info@tomohfc.com</a>
+                                <a href="mailto:Geniesfcclub@gmail.com" target="_blank">Geniesfcclub@gmail.com</a>
                             </li>
                         </ul>
                     </div>

@@ -70,7 +70,7 @@
 
                             <h4 class="mb-2">{{ __('contact.email')}}</h4>
                             <p>
-                                <a href="mailto:info@tomohfc.com" target="_blank">info@tomohfc.com</a>
+                                <a href="mailto:Geniesfcclub@gmail.com" target="_blank">Geniesfcclub@gmail.com</a>
                             </p>
                         </div>
                     </div>

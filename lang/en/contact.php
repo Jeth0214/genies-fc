@@ -26,7 +26,7 @@ return [
   'tel' => 'Telephone number ',
   'tel-value' => '9200 29976 ',
   'whatsapp' => 'Whatsapp',
-  'whatsapp-value' => '+966562556201',
+  'whatsapp-value' => '+2250717494949',
 
   //forms
   "name-label" => "Full Name",
