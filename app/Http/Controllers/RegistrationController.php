@@ -15,7 +15,7 @@ class RegistrationController extends Controller
         // Retrieve the validated input data...
         $validatedData = $request->validated();
 
-        Mail::to('Mohammed.a@captainacademy.com.sa')
+        Mail::to('hajar@captainacademy.com.sa')
             ->cc('Abdulrahman@captainacademy.com.sa')
             ->send(new RegistrationEmail($validatedData));
         return response()->json($request, 200);

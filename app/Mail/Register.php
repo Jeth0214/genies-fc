@@ -21,9 +21,7 @@ class Register extends Mailable
     /**
      * Create a new message instance.
      */
-    public function __construct()
-    {
-    }
+    public function __construct() {}
 
     /**
      * Get the message envelope.
@@ -33,7 +31,8 @@ class Register extends Mailable
         return new Envelope(
             from: new Address(env('MAIL_FROM_ADDRESS'), env('MAIL_FROM_NAME')),
             cc: [
-                'khaled@mycaptainacademy.com'
+                'hajar@captainacademy.com.sa',
+                'abdulrahman@captainacademy.com.sa'
             ],
             subject: 'New registration received!'
         );
