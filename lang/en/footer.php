@@ -42,7 +42,7 @@ return [
 
   // copyright
   'copyright' => 'Copyright',
-  'reserved' => '. All Rights Reserved. Dammam Saudi Arabia.',
+  'reserved' => '. All Rights Reserved. Ivory Coast.',
   'develope' => 'Developed by ',
   'ca' => 'Genies FC',
 ];

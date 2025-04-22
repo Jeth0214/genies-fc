@@ -18,7 +18,7 @@ return [
                     following us on the following socials media platforms:',
   'map-header' => 'Have questions or need support or a FREE consultancy session? We\'ve got you covered.',
   'location' => 'Location',
-  'address' => ' Danah Business Tower, Second floor, Olaya, Al Khobar, Saudi Arabia',
+  'address' => 'Ivory Coast, Abidjan Yopougon',
   'hours' => 'Open Hours',
   'hours-value' => '09:00 AM - 05:00 PM',
   'days-value' => 'Saturday - Thursday',

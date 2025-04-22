@@ -128,7 +128,7 @@
 
         <div class="row my-2" data-aos="fade-up" data-aos-delay="100">
             <div class="mt-3  overflow-hidden">
-                <iframe title="Danah Business Tower , second floor , Olaya, Al Khobar" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d254.0103158227518!2d50.17712532032937!3d26.29050712399363!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e7d41d1b940d%3A0xd3c6c940cd47e0b1!2sDanah%20Business%20Tower!5e1!3m2!1sen!2ssa!4v1734399809432!5m2!1sen!2ssa" width="inherit" height="500" class="w-100  border-primary border-4 rounded" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe title="Ivory Coast, Abidjan Yopougor" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127124.649051087!2d-4.177829247160523!3d5.317904416072651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1c09e49aed455%3A0x4740f8bb1f87bd97!2sYopougon%2C%20Abidjan%2C%20C%C3%B4te%20d&#39;Ivoire!5e0!3m2!1sen!2ssa!4v1745285609779!5m2!1sen!2ssa" width="inherit" height="500" class="w-100 border border-primary border-4 rounded" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
 

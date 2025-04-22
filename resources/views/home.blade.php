@@ -205,7 +205,7 @@
 <!-- ./ our Team -->
 
 
-
+<!-- Team Description -->
 <section id="message" class="section pt-5 my-5" data-aos="fade-in" data-aos-delay="100">
     <div class="container">
         <div class="row">
@@ -222,6 +222,124 @@
         </div>
     </div>
 </section>
+
+
+<!-- Players -->
+<div class="section sec-testimonials">
+    <div class="container">
+        <div class="row mb-5 align-items-center">
+            <div class="col-md-6">
+                <h2 class="fw-bold heading text-primary mb-4 mb-md-0">
+                    Our Pride, Our Players
+                </h2>
+                <p class="text-black">
+                    Each of these athletes brings heart, hustle, and honor to the field.
+                </p>
+            </div>
+            <div class="col-md-6 text-md-end">
+                <!-- <div id="testimonial-nav">
+                    <span class="prev" data-controls="prev">Prev</span>
+
+                    <span class="next" data-controls="next">Next</span>
+                </div> -->
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-4"></div>
+        </div>
+        <div class="testimonial-slider-wrap">
+            <div class="testimonial-slider">
+                <div class="item">
+                    <div class="testimonial">
+                        <div class="ratio ratio-1x1 w-25 rounded-circle mb-4">
+                            <img
+                                src="images/players/Ibrahim Touré.jpg"
+                                alt="Ibrahim Touré"
+                                loading="lazy"
+                                class="img-fluid rounded-circle  mb-4 object-fit-cover" />
+                        </div>
+                        <h3 class="h5 text-primary mb-0">Ibrahim Touré</h3>
+                        <p class="text-black-50">Goalkeeper</p>
+                        <div class="text-black">
+                            <p>
+                                A talented 14-year-old goalkeeper from Ivory Coast, plays for Genies FC and has already impressed scouts with his shot-stopping skills and confident footwork, drawing comparisons to Thibaut Courtois.
+                                Currently part of the Ivory Coast U15 national team, he’s set to compete in the Africa U15 Championship in Ghana, marking a key step in his promising journey.
+                            </p>
+                            <a href="{{route('news') . '#stadium'}}" class="btn btn-secondary fw-bold mb-4">More Details</a>
+
+                        </div>
+
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonial text-center">
+                        <div class="ratio ratio-1x1 w-25 rounded-circle mb-4 mx-auto">
+                            <img
+                                src="images/players/Ibrahim Touré.jpg"
+                                alt="Ibrahim Touré"
+                                loading="lazy"
+                                class="img-fluid rounded-circle  mb-4 object-fit-cover" />
+                        </div>
+                        <h3 class="h5 text-primary mb-0">Ibrahim Touré</h3>
+                        <p class="text-black-50">Goalkeeper</p>
+                        <div class="text-justify text-black">
+                            <p>
+                                A talented 14-year-old goalkeeper from Ivory Coast, plays for Genies FC and has already impressed scouts with his shot-stopping skills and confident footwork, drawing comparisons to Thibaut Courtois.
+                                Currently part of the Ivory Coast U15 national team, he’s set to compete in the Africa U15 Championship in Ghana, marking a key step in his promising journey.
+                            </p>
+                            <a href="{{route('news') . '#stadium'}}" class="btn btn-secondary fw-bold mb-4">More Details</a>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonial text-center">
+                        <div class="ratio ratio-1x1 w-50 rounded-circle mb-4 mx-auto">
+                            <img
+                                src="images/players/Ibrahim Touré.jpg"
+                                alt="Ibrahim Touré"
+                                loading="lazy"
+                                class="img-fluid rounded-circle  mb-4 object-fit-cover" />
+                        </div>
+                        <h3 class="h5 text-primary mb-0">Ibrahim Touré</h3>
+                        <p class="text-black-50">Goalkeeper</p>
+                        <div class="text-justify text-black">
+                            <p>
+                                A talented 14-year-old goalkeeper from Ivory Coast, plays for Genies FC and has already impressed scouts with his shot-stopping skills and confident footwork, drawing comparisons to Thibaut Courtois.
+                                Currently part of the Ivory Coast U15 national team, he’s set to compete in the Africa U15 Championship in Ghana, marking a key step in his promising journey.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonial text-center">
+                        <div class="ratio ratio-1x1 w-50 rounded-circle mb-4">
+                            <img
+                                src="images/players/Ibrahim Touré.jpg"
+                                alt="Ibrahim Touré"
+                                loading="lazy"
+                                class="img-fluid rounded-circle  mb-4 object-fit-cover" />
+                        </div>
+                        <h3 class="h5 text-primary mb-0">Ibrahim Touré</h3>
+                        <p class="text-black-50">Goalkeeper</p>
+                        <div class="text-black">
+                            <p>
+                                A talented 14-year-old goalkeeper from Ivory Coast, plays for Genies FC and has already impressed scouts with his shot-stopping skills and confident footwork, drawing comparisons to Thibaut Courtois.
+                                Currently part of the Ivory Coast U15 national team, he’s set to compete in the Africa U15 Championship in Ghana, marking a key step in his promising journey.
+                            </p>
+                            <a href="{{route('news') . '#stadium'}}" class="btn btn-secondary fw-bold mb-4">{{ __('news.news-03-cta') }}</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ./ Players -->
+
+
 
 <!-- Register-->
 @include('partials/be-part')
