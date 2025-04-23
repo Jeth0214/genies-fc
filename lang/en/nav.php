@@ -13,6 +13,7 @@ return [
   'tomoh' => 'Genies FC',
   'events' => 'Events',
   'news' => 'News',
+  'players' => 'Players',
   'facilities' => 'Facilities',
   'syllabus' => 'Syllabus',
   'live-streams' => 'Live Streams',

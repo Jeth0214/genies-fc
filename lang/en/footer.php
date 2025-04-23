@@ -34,6 +34,7 @@ return [
   'about-us' => 'About-us',
   'events' => 'Events',
   'syllabus' => 'Syllabus',
+  'players' => 'Players',
   'news' => 'News',
   'facilities' => 'Facilities',
   'live-streams' => 'Live Streams',

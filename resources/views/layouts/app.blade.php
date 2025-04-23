@@ -52,6 +52,7 @@
                             <li class="{{ Request::is('best-football-academy-dammam-khobar-saudi-arabia')? 'active': '' }}"><a href="/best-football-academy-dammam-khobar-saudi-arabia">{{ __('nav.tomoh')}}</a></li>
                             <li class="{{ Request::is('news')? 'active': '' }}"><a href="/news">{{ __('nav.news')}}</a></li>
                             <li class="{{ Request::is('terms-and-policy')? 'active': '' }}"><a href="/terms-and-policy">{{ __('nav.terms-and-policy')}}</a></li>
+                            <li class="{{ Request::is('players')? 'active': '' }}"><a href="/players">{{ __('nav.players')}}</a></li>
                             <li class="{{ Request::is('contact-us')? 'active': '' }}"><a href="/contact-us">{{ __('nav.contact-us')}}</a></li>
                             <li class="cta-button"><a href="/registration" class="btn btn-secondary text-primary fw-bold ">{{ __('nav.registration')}}</a></li>
                             <li>
@@ -149,11 +150,12 @@
                             <ul class="list-unstyled float-start links">
                                 <li><a href="/home">{{ __('footer.home')}}</a></li>
                                 <li><a href="/about-us">{{ __('footer.about-us')}}</a></li>
-                                <li><a href="/best-football-academy-dammam-khobar-saudi-arabia">{{ __('nav.tomoh')}}</a></li>
+                                <li><a href="/best-football-club-ivory-coast">{{ __('nav.tomoh')}}</a></li>
                                 <li><a href="/terms-and-policy">{{ __('terms.header-terms')}}</a></li>
                             </ul>
                             <ul class="list-unstyled float-start links">
                                 <li><a href="/news">{{ __('footer.news')}}</a></li>
+                                <li><a href="/players">{{ __('footer.players')}}</a></li>
                                 <li><a href="/contact-us">{{ __('footer.contact-us')}}</a></li>
                                 <li><a href="/registration">{{ __('footer.registration')}}</a></li>
                             </ul>

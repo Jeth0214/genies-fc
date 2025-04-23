@@ -33,7 +33,8 @@ Route::middleware(Localization::class)
         Route::view('terms-and-policy', 'terms-and-policy');
         Route::view('/news', 'news')->name('news');
         Route::view('/registration', 'registration')->name('registration');
-        Route::view('/best-football-academy-dammam-khobar-saudi-arabia', 'academy')->name('academy');
+        Route::view('/players', 'players')->name('players');
+        Route::view('/best-football-club-ivory-coast', 'geniesfc')->name('geniesfc');
 
         Route::post('/register-player', [RegistrationController::class, 'register']);
         Route::post('/send-contact-us', [ContactUsController::class, 'sendMessage']);
