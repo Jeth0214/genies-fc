@@ -49,7 +49,7 @@
 
                             <li class="{{ Request::is('home') || Request::is('/')? 'active': '' }}"><a href="/home">{{ __('nav.home')}}</a></li>
                             <li class="{{ Request::is('about-us')? 'active': '' }}"><a href="/about-us">{{ __('nav.about-us')}}</a></li>
-                            <li class="{{ Request::is('best-football-academy-dammam-khobar-saudi-arabia')? 'active': '' }}"><a href="/best-football-academy-dammam-khobar-saudi-arabia">{{ __('nav.tomoh')}}</a></li>
+                            <li class="{{ Request::is('best-football-club-ivory-coast')? 'active': '' }}"><a href="/best-football-club-ivory-coast">{{ __('nav.tomoh')}}</a></li>
                             <li class="{{ Request::is('news')? 'active': '' }}"><a href="/news">{{ __('nav.news')}}</a></li>
                             <li class="{{ Request::is('terms-and-policy')? 'active': '' }}"><a href="/terms-and-policy">{{ __('nav.terms-and-policy')}}</a></li>
                             <li class="{{ Request::is('players')? 'active': '' }}"><a href="/players">{{ __('nav.players')}}</a></li>
