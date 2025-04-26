@@ -14,6 +14,7 @@ return [
   'events' => 'الأحداث',
   'syllabus' => 'المنهج',
   'news' => 'الأخبار',
+  'players' => 'اللاعبون',
   'facilities' => 'الخدمات',
   'live-streams' => 'البث المباشر',
   'terms-and-policy' => 'الشروط والأحكام',
