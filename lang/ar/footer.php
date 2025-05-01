@@ -31,11 +31,8 @@ return [
   'home' => 'الصفحة الرئيسية',
   'about-us' => 'من نحن',
   'events' => 'الأحداث',
-  'syllabus' => 'المنهج',
   'news' => 'الأخبار',
   'players' => 'اللاعبون',
-  'facilities' => 'التسهيلات',
-  'live-streams' => 'البث المباشر',
   'contact-us' => 'تواصل معنا',
   'registration' => 'سجل الأن ',
 

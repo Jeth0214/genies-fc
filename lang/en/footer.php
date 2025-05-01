@@ -32,12 +32,8 @@ return [
   'links' => 'Links',
   'home' => 'Home',
   'about-us' => 'About-us',
-  'events' => 'Events',
-  'syllabus' => 'Syllabus',
   'players' => 'Players',
   'news' => 'News',
-  'facilities' => 'Facilities',
-  'live-streams' => 'Live Streams',
   'contact-us' => 'Contact Us',
   'registration' => 'Register Now',
 
