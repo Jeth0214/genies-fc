@@ -73,7 +73,7 @@
                                                 {{ __('news.news-02-content') }}
                                             </div> -->
 
-                                    <a href="{{route('news') . '#saudi-day'}}" class="btn btn-secondary fw-bold mb-4">{{ __('news.news-02-cta') }}</a>
+                                    <a href="{{route('news') . '#2034'}}" class="btn btn-secondary fw-bold mb-4">{{ __('news.news-02-cta') }}</a>
                                 </div>
                             </div>
                         </div>

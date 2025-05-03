@@ -37,7 +37,7 @@
                 </div>
             </div>
 
-            <div class="card mb-5" id="saudi-day">
+            <div class="card mb-5" id="2034">
                 <img src="{{'images/news/news-' . config('app.locale') . '-02.jpg'}}" alt="{{ __('news.news-02-title') }}" class="img-fluid" loading="lazy" />
                 <div class="card-body">
                     <h3 class="card-title fw-bold mb-1">{{ __('news.news-02-title') }}</h3>
